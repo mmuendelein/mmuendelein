@@ -11,5 +11,3 @@
 
 <br />
 <br />
-
-![Phrase](https://img.shields.io/badge/-an%20eye%20for%20the%20quiet%20and%20unspoken-2E2E2E?style=flat-square)
